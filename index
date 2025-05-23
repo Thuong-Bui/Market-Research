@@ -24,7 +24,7 @@
   </div>
 
   <div id="report" style="display:none;">
-    <h2>GIVRAL SG</h2>
+    <h2>MARKET RESEARCH</h2>
     <iframe width="100%" height="600px"
       src="https://app.powerbi.com/view?r=eyJrIjoiZjFkMzAwZTQtODBhOS00NDA3LWIwYWItZmViM2NkNzBmNWNkIiwidCI6IjE4MmVkZDhiLTQ5YjgtNGFmOC1iNWU0LWY5ZWRmMDhhZTk2NyIsImMiOjEwfQ%3D%3D"
       frameborder="0" allowFullScreen="true"></iframe>
